@@ -1,0 +1,16 @@
+@media all and (min-width: 1001px){
+    #mame a:after {
+        //styles
+    }
+}
+@media all and (max-width: 1000px)and (min-width: 700ox){
+    #divID a:before{
+        //styles
+    }
+}
+
+@media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px){
+    #divID a{
+        //styles
+    }
+}
